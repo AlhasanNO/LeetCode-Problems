@@ -1,18 +1,25 @@
 # 🚀 LeetCode Problems
 
-Welcome to my **LeetCode Problems** repository! 🎯 This is where I document my journey of solving **LeetCode** challenges to sharpen my problem-solving skills in **algorithms and data structures**.
+Welcome to my **LeetCode Problems** repository! 🎯 This repo serves as a collection of my solutions to various **LeetCode** coding challenges, helping me strengthen my skills in **algorithms and data structures**.  
+
+If you're looking to **learn**, **improve**, or **collaborate**, you're in the right place! 🚀  
+
+---
 
 ## 📌 About
 
-This repository contains my solutions to various **LeetCode** problems, focusing on:
+This repository focuses on solving **LeetCode** problems with:  
 
-✅ **Efficiency** – Optimized solutions with minimal time and space complexity.  
-✅ **Readability** – Clean, well-structured, and easy-to-understand code.  
-✅ **Conceptual Clarity** – Solutions that emphasize core algorithmic principles.  
+✅ **Optimized Solutions** – Striving for minimal time and space complexity.  
+✅ **Readable Code** – Well-structured, clean, and easy to understand.  
+✅ **Algorithmic Insights** – Emphasizing core concepts behind each problem.  
 
-Whether you're here to **learn**, **improve**, or **contribute**, you're welcome! 🚀
+I continuously update this repo with new solutions as I progress. Feel free to explore, learn, and contribute! 😊  
 
-## 💻 Languages Used
+---
 
-🔹 **C#** (Primary Language)  
-🔹 *(More languages may be added as I explore further!)*
+## 📂 Repository Structures
+
+The repository is organized based on difficulty levels:
+
+LeetCode-Problems/ │── Easy/ │── Medium/ │── Hard/
