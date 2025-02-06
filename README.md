@@ -22,4 +22,7 @@ I continuously update this repo with new solutions as I progress. Feel free to e
 
 The repository is organized based on difficulty levels:
 
-LeetCode-Problems/ │── Easy/ │── Medium/ │── Hard/
+LeetCode-Problems/ 
+│── Easy/ 
+│── Medium/ 
+│── Hard/
